@@ -1,0 +1,6 @@
+build:
+  build: 2
+  version: 2.2.1.1
+  name: "dev git production build"
+  type : "dev build"
+    
