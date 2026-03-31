@@ -1,6 +1,6 @@
 build:
   build: 3
   version: 3.3.1.1
-  name: "Prod git production build"
+  name: "Prod updates git production build"
   type : "Prouction build"
     
